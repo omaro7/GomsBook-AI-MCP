@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: GomsBook-AI-MCP
+Bundle-SymbolicName: kr.co.goms.gomsbook.ai.mcp
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: GOMSBOOK
+Automatic-Module-Name: kr.co.goms.gomsbook.ai.mcp
+Bundle-RequiredExecutionEnvironment: JavaSE-23
+Import-Package: kr.co.goms.gomsbook.ai.tool
+Bundle-ClassPath: .,
+ lib/gson-2.8.9.jar
